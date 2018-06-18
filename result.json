@@ -1,0 +1,30 @@
+[
+	{
+		"_id": "5b270d119ee54237ff2bd70d",
+		"author": "Mike",
+		"text": "My first blog post!",
+		"tags": [
+			"mongodb",
+			"python",
+			"pymongo"
+		],
+		"date": "2018-06-18T01:32:00.608Z"
+	},
+	{
+		"_id": "5b271be09ee54237ff2bd70e",
+		"author": "Mike",
+		"text": "Another post!",
+		"tags": [
+			"bulk",
+			"insert"
+		],
+		"date": "2009-11-12T11:14:00.000Z"
+	},
+	{
+		"_id": "5b271be09ee54237ff2bd70f",
+		"author": "Eliot",
+		"title": "MongoDB is fun",
+		"text": "and pretty easy too!",
+		"date": "2009-11-10T10:45:00.000Z"
+	}
+]
